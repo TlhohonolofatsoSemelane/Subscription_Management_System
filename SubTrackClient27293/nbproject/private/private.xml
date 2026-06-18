@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/config/RmiClientConfig.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/util/ReportExporter.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/dto/LoginRequest.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/dto/RegisterRequest.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/ClientMain.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/service/AuthClientService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/util/ResponseParser.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/ui/auth/RegisterFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/ui/dashboard/DashboardFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/util/AppConstants.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/ui/auth/LoginFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/dto/SubscriptionRowDto.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/util/PdfExportUtil.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/service/SubscriptionClientService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/client/ui/subscription/SubscriptionFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackClient27293/src/com/subtrack/server/rmi/remote/SubscriptionRemoteService.java</file>
+        </group>
+    </open-files>
+</project-private>

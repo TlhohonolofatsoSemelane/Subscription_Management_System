@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/dao/SubscriptionDaoImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/dto/LoginRequest.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/rmi/impl/SubscriptionRemoteServiceImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/AuthService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/dao/PaymentMethodDao.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/security/OtpService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/model/Category.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/model/Subscription.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/messaging/dto/OtpNotificationEvent.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/impl/UserServiceImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/rmi/remote/SubscriptionRemoteService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/rmi/ServerMain.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/UserService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/service/dto/RegisterRequest.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/messaging/OtpEventPublisher.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/model/User.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/rmi/remote/AuthRemoteService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/dao/TagDao.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/rmi/dto/SubscriptionDto.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/model/PaymentMethod.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/config/HibernateUtil.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/dao/CategoryDaoImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SubTrackServer27293/src/com/subtrack/server/dao/SubscriptionDao.java</file>
+        </group>
+    </open-files>
+</project-private>

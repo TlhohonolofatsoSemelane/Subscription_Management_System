@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- JDBC -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/subtrack_management_db</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">123</property>
+
+        <!-- SQL Dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+        <!-- Debug / Logging -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+        <property name="hibernate.use_sql_comments">true</property>
+
+        <!-- Schema handling -->
+        <property name="hibernate.hbm2ddl.auto">validate</property>
+
+        <!-- Optional but useful -->
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="hibernate.connection.charSet">UTF-8</property>
+
+
+        <!-- Entity mappings -->
+        <mapping class="com.subtrack.server.model.User"/>
+        <mapping class="com.subtrack.server.model.Category"/>
+        <mapping class="com.subtrack.server.model.PaymentMethod"/>
+        <mapping class="com.subtrack.server.model.Subscription"/>
+        <mapping class="com.subtrack.server.model.Tag"/>
+    </session-factory>
+</hibernate-configuration>
