@@ -97,6 +97,15 @@ I used a top-down testing strategy:
 
 <img width="959" height="527" alt="image" src="https://github.com/user-attachments/assets/1198fa5d-021c-4517-8141-32e7aa5e5602" />
 
+### 📌 Viva Notes
+- OTP flow is asynchronous through ActiveMQ producer/consumer.
+- Relationship mappings are defined in entity classes (e.g., @ManyToOne on owning side).
+- Prioritized stable MVP delivery over partially integrated optional modules.
+
+### 👤 Author
+- Name: Semelane Temana Tlhohonolofatso
+- Program: Java Programming
+- Year: 2026
 
 
   
