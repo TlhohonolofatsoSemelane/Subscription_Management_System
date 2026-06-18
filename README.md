@@ -1,5 +1,3 @@
-# Subscription_Management_System
-
 # SubTrack – Subscription Management System
 
 SubTrack is a Java desktop-based subscription management system that helps users track recurring payments, manage subscription records, and export reports.  
