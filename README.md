@@ -62,7 +62,7 @@ It is built using a client-server architecture with Java RMI, Hibernate ORM, Pos
 - IDE (NetBeans/IntelliJ/Eclipse)
 
 ### 2) Start ActiveMQ
-activemq.bat start
+- activemq.bat start
 
 ### 3) Configure Database
 - Create database in PostgreSQL
@@ -78,4 +78,26 @@ I used a top-down testing strategy:
 - Unit-level checks for business rules in Service layer
 - Integration testing for RMI + Hibernate + ActiveMQ flow
 - End-to-End testing from registration/login to CRUD and export
+
+### 📸 Screenshots
+
+#### Dashboard
+
+<img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/d61dc373-40a6-4350-8b55-68411b795573" />
+
+### Manage Subscriptions
+
+<img width="959" height="510" alt="image" src="https://github.com/user-attachments/assets/30e15134-0ab2-4406-bc64-60f3e2d09ec6" />
+
+### Login 
+
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/caf462d2-079c-4bcd-8fc4-6d19ac554a27" />
+
+<img width="959" height="513" alt="image" src="https://github.com/user-attachments/assets/55b095bd-ad5b-45fb-8eae-d3a3ab4d8b81" />
+
+<img width="959" height="527" alt="image" src="https://github.com/user-attachments/assets/1198fa5d-021c-4517-8141-32e7aa5e5602" />
+
+
+
+  
 
