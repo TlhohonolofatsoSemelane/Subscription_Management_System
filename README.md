@@ -64,3 +64,18 @@ It is built using a client-server architecture with Java RMI, Hibernate ORM, Pos
 ### 2) Start ActiveMQ
 ```bash
 activemq.bat start
+
+### 3) Configure Database
+- Create database in PostgreSQL
+- Update Hibernate DB config in server (hibernate.cfg.xml)
+
+## 4) Run Applications
+- Start ServerMain.java
+- Start ClientMain.java
+
+### 🧪 Testing Approach
+I used a top-down testing strategy:
+
+- Unit-level checks for business rules in Service layer
+- Integration testing for RMI + Hibernate + ActiveMQ flow
+- End-to-End testing from registration/login to CRUD and export
